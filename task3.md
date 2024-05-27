@@ -11,3 +11,14 @@ Graph theory is a branch of mathematics that deals with the study of graphs, whi
 - Graph theory is extensively used in operations research for solving problems related to transportation, scheduling, and resource allocation.
 - It helps in finding the shortest path between two points, which is essential in logistics and transportation planning.
 - Graph theory also assists in solving traveling salesman problems, which involve finding the most efficient route for visiting multiple locations.
+
+### 3. Chemistry and Molecular Modeling:
+- In chemistry, graph theory is used to represent and study the structure of molecules.
+- Nodes represent atoms, and edges represent chemical bonds between atoms.
+- Graph theory helps in understanding the properties and behavior of molecules, as well as in predicting chemical reactions and designing new molecules.
+
+
+### 4. Electrical Engineering and Circuit Design:
+- Graph theory finds applications in electrical engineering, particularly in the design and analysis of electrical circuits.
+- Nodes represent components like resistors, capacitors, and transistors, while edges represent the connections between them.
+- Graph theory helps in analyzing the flow of current, identifying loops, and optimizing circuit designs.
