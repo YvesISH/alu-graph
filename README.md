@@ -8,11 +8,11 @@ task1.h: Header file for Task 1 including required function defintions.
 
 ### Task 2
 #### Files
-task2.h: Header file for Task 2 including required function defintions.
-task2_bfs.c: Implementation file for Task 2, containing the Breadth-First Search (BFS) algorithm.
-task2_dfs.c: Implementation file for Task 2, containing the Depth-First Search (DFS) algorithm.
-bfs.md: Markdown file describing applications of the Breadth-First Search algorithm.
-dfs.md: Markdown file describing applications of the Depth-First Search algorithm.
+- task2.h: Header file for Task 2 including required function defintions.
+- task2_bfs.c: Implementation file for Task 2, containing the Breadth-First Search (BFS) algorithm.
+- task2_dfs.c: Implementation file for Task 2, containing the Depth-First Search (DFS) algorithm.
+- bfs.md: Markdown file describing applications of the Breadth-First Search algorithm.
+- dfs.md: Markdown file describing applications of the Depth-First Search algorithm.
 
 ### Task 3
 #### Files
