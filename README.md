@@ -3,8 +3,8 @@ This repository contains the code for the Week 3 Assignment. The assignment cons
 
 ### Task 1
 #### Files
-task1.c: Implementation file for Task 1.
-task1.h: Header file for Task 1 including required function defintions.
+- task1.c: Implementation file for Task 1.
+- task1.h: Header file for Task 1 including required function defintions.
 
 ### Task 2
 #### Files
@@ -16,4 +16,4 @@ task1.h: Header file for Task 1 including required function defintions.
 
 ### Task 3
 #### Files
-task3.md: Markdown file for Task 3. This file contains the response for the third task.
+- task3.md: Markdown file for Task 3. This file contains the response for the third task.
